@@ -4,7 +4,7 @@ import '../App.css'
 
 const Navbar = () => {
     const redirectToGithub =()=>{
-        window.location.href = "https://github.com/jaouheraya12/AITextDetector";
+        window.location.href = "https://github.com/jaouheraya12-create/AITextDetector";
     }
 
     return (
